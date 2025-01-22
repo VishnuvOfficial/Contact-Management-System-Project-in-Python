@@ -1,4 +1,4 @@
-# contact management system 
+# Contact management system 
 This Contact Management System is a Python-based application designed to help users store, manage, and retrieve contact information efficiently. The system provides functionalities for adding, updating, deleting, and searching contacts, making it a simple yet powerful tool for organizing personal or professional contacts.
 
 # Features:
@@ -20,7 +20,7 @@ Clone the repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Contact-Management-System-Project-in-Python.git
+git clone https://github.com/your-VishnuOfficial/Contact-Management-System-Project-in-Python.git
 Navigate to the project directory:
 bash
 Copy
@@ -36,15 +36,13 @@ python
 Copy
 Edit
 # Add a new contact
->>> add_contact("John Doe", "1234567890", "john.doe@example.com", "123 Main St")
+("VishnuOffical", "9789756053", "vishnu201124@gmail.com")
 
 # Update an existing contact
->>> update_contact("John Doe", new_phone="0987654321")
+("VishnuOfficial", new_phone="9789756053")
 
 # Search for a contact
->>> search_contact("John")
+("VishnuOfficial")
 
-# Display all contacts
->>> display_contacts()
 # License:
 This project is open source and available under the MIT License.
